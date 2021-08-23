@@ -1,0 +1,33 @@
+body {
+    background-color: orange;
+    position: relative;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+#title {
+    background-color: palevioletred;
+    font-size: 100px;
+    font-weight: bolder;
+    margin: 0;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 4px #f5f5f5;
+    font-family: 'Coda Caption', sans-serif;
+    position: relative;
+
+}
+
+#game-year {
+    font-family: 'Satisfy', cursive;
+    font-size: 80px;
+    margin: 0;
+    transform: rotate(+15deg);
+    margin-left: 600px;
+    color: rgb(55, 208, 219);;
+    
+
+}
+
+
